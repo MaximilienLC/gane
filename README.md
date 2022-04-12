@@ -53,8 +53,8 @@ mpiexec -n 2 python3 main.py --env_path envs/multistep/imitate/control.py \
 ### Downloading the Paper's Results & Final Dynamic States
 
 ```
-wget https://www.dropbox.com/s/lyi1yyrsspvt4oy/envs.multistep.imitate.control.zip -P ~/Downloads/
-unzip -o ~/Downloads/envs.control.score.zip -d data/states/
+wget https://www.dropbox.com/s/xw1gn834vbc40jr/envs.multistep.imitate.control.zip -P ~/Downloads/
+unzip -o ~/Downloads/envs.multistep.imitate.control.zip -d data/states/
 ```
 
 You can now run additional generations ...
