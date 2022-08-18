@@ -1,8 +1,8 @@
-# Self-Supervised Neuroevolution for Control Behaviour Imitation
+# Generative Adversarial Neuroevolution for Control Behaviour Imitation
 
 ### Information
 
-This repository contains the instructions on how to reproduce the experiments from the paper "Self-Supervised Neuroevolution to Imitate Control Behaviour".
+This repository contains the instructions on how to reproduce the experiments from the paper "Generative Adversarial Neuroevolution for Control Behaviour Imitation".
 
 The code itself is located in a larger library called [Nevo](https://github.com/MaximilienLC/nevo).
 
